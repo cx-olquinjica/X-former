@@ -31,4 +31,4 @@ Contributions to X-former are welcome! If you would like to contribute to the re
 
 ## License
 
-X-former is released under the [MIT License]. You are free to use, modify, and distribute the codebase in accordance with the terms of this license.
+X-former is released under the [MIT License](hdhlkhf). You are free to use, modify, and distribute the codebase in accordance with the terms of this license.
